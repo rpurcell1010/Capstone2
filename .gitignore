@@ -8,6 +8,7 @@ __pycache__/
 #Ignore config
 config.ipynb
 config.ini
+config.csv
 
 # Distribution / packaging
 .Python
