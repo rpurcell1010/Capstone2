@@ -10,6 +10,9 @@ config.ipynb
 config.ini
 config.csv
 config.txt
+Capstone2/config.txt
+Capstone2/config.csv
+https://raw.githubusercontent.com/rpurcell1010/Capstone2/master/config.csv
 
 # Distribution / packaging
 .Python
